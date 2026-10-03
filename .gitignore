@@ -1,0 +1,43 @@
+# Keil MDK build directories
+MDK-ARM/Maze_Car/
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+
+# Keil per-user settings (may contain local paths and user names)
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+
+# Keil generated build files
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lnp
+*.dep
+*.lst
+*.sct
+*.build_log.htm
+*.htm
+*.iex
+*.Bak
+
+# STM32CubeMX local/cache files
+.mxproject
+*.bak
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local AI/tool metadata
+.codex/
+.claude/
+
